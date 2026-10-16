@@ -10,7 +10,7 @@
 ## 🗞️ Articles and Essays of Note
 
 - [The Ransomware Superhero of Normal, Illinois](https://www.propublica.org/article/the-ransomware-superhero-of-normal-illinois) [ 💾 [archive](https://archive.ph/6sWU0) ]
-- [Ransomware: Past, Present and Future](https://blog.talosintelligence.com/2016/04/ransomware.html) - Cisco Talos blog post on ransomware, vintage 2016
+- [N0N Group Maritime Extortion Campaign](https://calder-brief.pages.dev/n0n-group-maritime-extortion-38-firms.html) - researched report on a modern ransomware-extortion campaign against 38 maritime firms (Calder Brief, Oct 2026)
 - [Do you want to play a game? Ransomware asks for high score instead of money](https://arstechnica.com/gaming/2017/04/do-you-want-to-play-a-game-ransomware-asks-for-high-score-instead-of-money/) -- about [Rensenware](https://en.wikipedia.org/wiki/Rensenware)
 
 ## 🛠️  Tools 
@@ -21,7 +21,6 @@
   - [Free Ransomware Decrypters | Kaspersky](https://noransom.kaspersky.com/)
   - [List of Decryption Tools | Heimdal Security](https://heimdalsecurity.com/blog/ransomware-decryption-tools/) - A long list of decryption tools
   - [No More Ransom](https://www.nomoreransom.org)
-  - [Trend Micro Ransomware File Decryptor](https://success.trendmicro.com/solution/1114221-downloading-and-using-the-trend-micro-ransomware-file-decryptor)
   - [The Windows Club](https://www.thewindowsclub.com/list-ransomware-decryptor-tools) - A list of decryption tools
 
 ### ✨  Other
@@ -49,8 +48,7 @@
 
 ## 🖼️  Infographics
   - [Ransomware Families](https://heimdalsecurity.com/blog/wp-content/uploads/ransowmare-families-f-secure-1.jpg) - A diagram from F-Secure of ransomware families from 2012-2017.
-  - [A timeline of major ransomware events](https://kraftbusiness.com/wp-content/uploads/2019/01/history-evolution-of-ransomware.png)
-    - The link above is `404`: see [the timeline via the Wayback Machine](https://web.archive.org/web/20220121031312/https://kraftbusiness.com/wp-content/uploads/2019/01/history-evolution-of-ransomware.png).
+  - [A timeline of major ransomware events (via the Wayback Machine)](https://web.archive.org/web/20220121031312/https://kraftbusiness.com/wp-content/uploads/2019/01/history-evolution-of-ransomware.png)
   - [Ransomware Attacks Map](https://statescoop.com/ransomware-map/) - An interactive map of known ransomware incidents in the US
 
 ## 🏡  Lists of Ransomware Families
